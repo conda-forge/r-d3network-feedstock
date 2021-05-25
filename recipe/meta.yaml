@@ -41,7 +41,7 @@ test:
 
 about:
   home: http://christophergandrud.github.io/d3Network/
-  license: GPL-3
+  license: GPL-3.0-or-later
   summary: 'This packages is intended to make it easy to create D3 JavaScript network, tree,
     dendrogram, and Sankey graphs from R using data frames. !!! NOTE: Active development
     has moved to the networkD3 package. !!!'
