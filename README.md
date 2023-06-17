@@ -1,11 +1,11 @@
-About r-d3network
-=================
+About r-d3network-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-d3network-feedstock/blob/main/LICENSE.txt)
 
 Home: http://christophergandrud.github.io/d3Network/
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-d3network-feedstock/blob/main/LICENSE.txt)
 
 Summary: This packages is intended to make it easy to create D3 JavaScript network, tree, dendrogram, and Sankey graphs from R using data frames. !!! NOTE: Active development has moved to the networkD3 package. !!!
 
